@@ -1,0 +1,2 @@
+# AccountManager
+基于Java和Mysql实现的账号管理系统，支持本地加密存储和增删改查等功能
